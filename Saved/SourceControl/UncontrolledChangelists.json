@@ -5,9 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/ShrutiTest/GIFT/Content/NewMap.umap",
+				"G:/ShrutiTest/GIFT/Content/JacketFBX.uasset",
+				"G:/ShrutiTest/GIFT/Content/material_0.uasset",
 				"G:/GIFT/Content/shruti.umap",
-				"G:/GIFT/Content/NewMaterial.uasset",
-				"G:/ShrutiTest/GIFT/Content/NewMap.umap"
+				"G:/GIFT/Content/NewMaterial.uasset"
 			]
 		}
 	]
