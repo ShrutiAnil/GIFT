@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/GIFT/Content/shruti.umap",
+				"G:/GIFT/Content/NewMaterial.uasset",
 				"G:/ShrutiTest/GIFT/Content/NewMap.umap"
 			]
 		}
